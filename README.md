@@ -6,7 +6,7 @@ T.J. Clark-Wolf, Philip G. Hahn, Eric Brelsford, Jaleen Francois, Nicolette Haye
 **"Preventing a series of unfortunate events: using qualitative models to improve conservation"**,
 accepted for Journal of Applied Ecology.
 
-All analyses were done in `R`. The code to conduct the simulations is in the `Code` folder. We thank Dave Ramsey for sharing the code to create the fuzzy interaction webs, in the 'fuzzy membership functions.R' and 'FCM function.R' scripts.
+All analyses were done in `R`. The code to conduct the simulations is in the `Code` folder. We thank Dave Ramsey for sharing the code to create the fuzzy interaction webs, in the `fuzzy membership functions.R` and `FCM function.R` scripts.
 
 ## License
 
